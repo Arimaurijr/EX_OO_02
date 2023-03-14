@@ -35,6 +35,7 @@ namespace EX_OO_02
 
             return media;
         }
+
         public double CalcularMedia(double _nota1, int peso1, double _nota2, int peso2)
         {
             double media = 0.0;
